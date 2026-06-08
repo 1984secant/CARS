@@ -1,13 +1,13 @@
 let cars = {
-    car1: {
-        make: 1,
-        model: 1,
-        year: 1,
-        category: 1,
-        colour: 1,
-        price: 1,
+    fordMav: {
+        make: "Ford",
+        model: "W8P",
+        year: 2026,
+        category:"Crew Cab Pickup",
+        colour: "White",
+        price: "46050",
         photo: 1,
-        fuelType: 1,
+        fuelType: "Gas",
         horsePower: 1,
         seatingCapacity: 1
     },

@@ -1,0 +1,13 @@
+
+
+.box { 
+    background-color: grey;
+}
+
+img {
+    border-radius:30px ;
+    width: 1080px;
+    height: 720px;
+    align-self: center;
+    padding: 20px;
+}
